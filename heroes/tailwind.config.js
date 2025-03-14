@@ -1,16 +1,16 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-    content: [
-      "./index.html",
-      "./src/**/*.{js,ts,jsx,tsx}",
-    ],
-    theme: {
-      extend: {
-        colors:{
-            'Rojo':'#eb4536'
-        }
+  darkMode:'class',
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
+  theme: {
+    extend: {
+      colors:{
+       rojo:'#eb4536'
       },
     },
-    plugins: [],
-  }
-  
+  },
+  plugins: [],
+}
