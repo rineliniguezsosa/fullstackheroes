@@ -1,0 +1,25 @@
+{
+  "name": "heroesapi",
+  "version": "1.0.0",
+  "description": "api rest para la gestión de los heroes de marvel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rineliniguezsosa/fullstackheroes.git"
+  },
+  "keywords": [
+    "heroes"
+  ],
+  "author": "rinel iniguez sosa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rineliniguezsosa/fullstackheroes/issues"
+  },
+  "homepage": "https://github.com/rineliniguezsosa/fullstackheroes#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
