@@ -1,5 +1,5 @@
 import { BrowserRouter,Routes,Route } from 'react-router-dom'
-import { Home } from '../components/feature/heroes'
+import { Home } from '../components'
 import { Nav } from '../components/layout/nav/Nav'
 
 export const HeroesRouter = () => {
